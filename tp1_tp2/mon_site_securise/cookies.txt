@@ -1,0 +1,2 @@
+PHPSESSID=c8b524195b7c445309515038f07dc3ad; security=low
+PHPSESSID=d28f95a2688cac6a3d9af67ea6fe251f; security=low
